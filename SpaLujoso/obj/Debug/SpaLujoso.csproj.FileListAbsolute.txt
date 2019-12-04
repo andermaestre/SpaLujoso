@@ -1,0 +1,10 @@
+C:\Users\andermaestre\source\repos\SpaLujoso\SpaLujoso\bin\Debug\SpaLujoso.exe.config
+C:\Users\andermaestre\source\repos\SpaLujoso\SpaLujoso\bin\Debug\SpaLujoso.exe
+C:\Users\andermaestre\source\repos\SpaLujoso\SpaLujoso\bin\Debug\SpaLujoso.pdb
+C:\Users\andermaestre\source\repos\SpaLujoso\SpaLujoso\obj\Debug\SpaLujoso.csprojAssemblyReference.cache
+C:\Users\andermaestre\source\repos\SpaLujoso\SpaLujoso\obj\Debug\SpaLujoso.Form1.resources
+C:\Users\andermaestre\source\repos\SpaLujoso\SpaLujoso\obj\Debug\SpaLujoso.Properties.Resources.resources
+C:\Users\andermaestre\source\repos\SpaLujoso\SpaLujoso\obj\Debug\SpaLujoso.csproj.GenerateResource.cache
+C:\Users\andermaestre\source\repos\SpaLujoso\SpaLujoso\obj\Debug\SpaLujoso.csproj.CoreCompileInputs.cache
+C:\Users\andermaestre\source\repos\SpaLujoso\SpaLujoso\obj\Debug\SpaLujoso.exe
+C:\Users\andermaestre\source\repos\SpaLujoso\SpaLujoso\obj\Debug\SpaLujoso.pdb

@@ -1,0 +1,7 @@
+C:\Users\andermaestre\source\repos\SpaLujoso\Usuario\bin\Debug\Usuario.exe.config
+C:\Users\andermaestre\source\repos\SpaLujoso\Usuario\bin\Debug\Usuario.exe
+C:\Users\andermaestre\source\repos\SpaLujoso\Usuario\bin\Debug\Usuario.pdb
+C:\Users\andermaestre\source\repos\SpaLujoso\Usuario\obj\Debug\Usuario.csproj.CoreCompileInputs.cache
+C:\Users\andermaestre\source\repos\SpaLujoso\Usuario\obj\Debug\Usuario.exe
+C:\Users\andermaestre\source\repos\SpaLujoso\Usuario\obj\Debug\Usuario.pdb
+C:\Users\andermaestre\source\repos\SpaLujoso\Usuario\obj\Debug\Usuario.csprojAssemblyReference.cache
